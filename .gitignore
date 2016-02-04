@@ -1,0 +1,6 @@
+tests/
+*.jar
+*.class
+*.png
+*.zip
+*.pdf
