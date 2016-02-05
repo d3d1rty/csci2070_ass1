@@ -2,8 +2,6 @@
 ##About
 This project is an assignment for CSCI 2070 (Intro to Java) course at APSU. Being this is an educational project for a grade, collaboration isn't exactly the goal here. But if you feel that you can benefit from perusing my code, go for it! 
 
-For reference, I have included the original assignment instructions. 
-
 ##What it Does
 This project is a collection of small introductory classes.
 
