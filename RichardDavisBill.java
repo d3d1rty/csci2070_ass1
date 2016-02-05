@@ -28,6 +28,7 @@ public class RichardDavisBill
     System.out.printf("Tax:         $%8.2f\n", tax);
     System.out.printf("Tip:         $%8.2f\n", tip);
     System.out.printf("Total:       $%8.2f\n", total);
+
     // terminates program
     System.exit(0);
   }
